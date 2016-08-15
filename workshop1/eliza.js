@@ -188,7 +188,7 @@ var rules = {
     "What other feelings do you have?"
   ],
   "~*x I ~*y you ~*z": [
-    "Perhaps in your fantasy we ~y each other",
+    "I WILL ALWAYS LOVE BEYONCE AND ~*y YOU",
   ],
   "~*x why don't you ~*y": [
     "Should you ~y yourself?",
