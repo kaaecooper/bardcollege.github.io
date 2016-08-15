@@ -5,7 +5,7 @@
  */
 
 var things = ["Beyonce", "Beyonce", "Beyonce", "Beyonce", "Beyonce", "Beyonce"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
+var programmers = ["Beyonce Fans", "Beyonce Fans", "Beyonce Fans", "Beyonce Fans", "Beyone Fans", "Beyone Fans"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
